@@ -13,7 +13,7 @@ The OK text and GRAMMATRON francinate me the most. They are both written by Mark
 
 Ok text
 
-![](https://github.com/Raymondvonz/CodeWords/blob/master/W5/Screen%20Shot%202020-09-18%20at%201.07.39%20am.png)
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W5/Screen%20Shot%202020-09-18%20at%2012.19.35%20am.png)
 
 the pop up “warning” texts that we often briefly read then press “OK” to close. 
 
