@@ -50,4 +50,4 @@ function draw() {
   rect (mouseX,0,278,400);
  }
  
-[Play here](https://github.com/Raymondvonz/CodeWords/tree/master/W1/R_firstattempt).
+[Play here](https://raymondvonz.github.io/CodeWords/W1/R_firstattempt/).
