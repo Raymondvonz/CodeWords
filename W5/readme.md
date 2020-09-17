@@ -13,9 +13,13 @@ The OK text and GRAMMATRON francinate me the most. They are both written by Mark
 
 Ok text
 
+![](Joseph_Beuys.jpg)
+
 the pop up “warning” texts that we often briefly read then press “OK” to close. 
 
 GRAMMATRON
+
+![](Joseph_Beuys.jpg)
 
 I found this interative [*web page*](http://www.grammatron.com) online, not sure if it's the original Art work.
 
@@ -23,4 +27,7 @@ I found this interative [*web page*](http://www.grammatron.com) online, not sure
 
 ### C
 
+![](Joseph_Beuys.jpg)
+
 I tried to playaround with mouseX mouseY translate rotate later on and  [*Click here to view*](https://www.youtube.com/watch?v=V1scKvMRQx8&t=9s)
+
