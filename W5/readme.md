@@ -29,5 +29,5 @@ I found this interative [*web page*](http://www.grammatron.com) online, not sure
 
 ![](Joseph_Beuys.jpg)
 
-I tried to playaround with mouseX mouseY translate rotate later on and  [*Click here to view*](https://www.youtube.com/watch?v=V1scKvMRQx8&t=9s)
+I tried to playaround with mouseX mouseY translate rotate later on and  [Play here](https://raymondvonz.github.io/CodeWords/W1/R_firstattempt/).
 
