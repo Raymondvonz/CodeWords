@@ -16,6 +16,6 @@ the pop up “warning” texts that we often briefly read then press “OK” to
 
 GRAMMATRON
 
-I found this interative web page [*web page*] http://www.grammatron.com online, not sure if it's the original Art work. 
+I found this interative web page [*web page*](http://www.grammatron.com online) , not sure if it's the original Art work. 
 
 
