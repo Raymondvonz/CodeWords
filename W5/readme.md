@@ -23,7 +23,7 @@ the pop up “warning” texts that we often briefly read then press “OK” to
 
 I found this interative [*web page*](http://www.grammatron.com) online, not sure if it's the original Art work.
 
-
+Part of Grammatron is a companion theory site called "hypertext consciousness" The story introduces readers to Abe Golam, a pioneering Net artist who creates Grammatron, a writing machine. Endowed not with the Word (as in the original myth) but with forbidden data—a specially coded Nanoscript—the creature becomes a digital being that "contains all of the combinatory potential of all the writings." The Grammatronis the personification of the Golem, which is also a personification of Amerika the artist. While the Golem and its environment have been depicted in any number of literary adaptations and works, in GRAMMATRON, Mark Amerika creates a seemingly infinite, recombinant (text-)space in the electrosphere.
 
 ### C
 
