@@ -30,4 +30,5 @@ I found this interative [*web page*](http://www.grammatron.com) online, not sure
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W5/Screen%20Shot%202020-09-18%20at%201.07.39%20am.png)
 
 I tried to playaround with mouseX mouseY translate rotate later on and  [Play here](https://raymondvonz.github.io/CodeWords/W5/spin/).
+The 10 Arc shapes are spinning by themselves 
 
