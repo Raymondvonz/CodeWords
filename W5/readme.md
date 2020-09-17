@@ -11,15 +11,15 @@ This week we asked to pick a text from [*online reader*](http://digbeyond.com/re
 
 The OK text and GRAMMATRON francinate me the most. They are both written by Mark Amerika. I can see a strong connection between two of them. They give me the same frustration by indicating there is no chocie but to follow the experience.(although it did offer an obvious  YES/NO option in Ok text)
 
-Ok text
+**Ok text**
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W5/Screen%20Shot%202020-09-18%20at%2012.19.35%20am.png)
 
 the pop up “warning” texts that we often briefly read then press “OK” to close. 
 
-GRAMMATRON
+**GRAMMATRON**
 
-![](Joseph_Beuys.jpg)
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W5/Screen%20Shot%202020-09-18%20at%201.46.08%20am.png)
 
 I found this interative [*web page*](http://www.grammatron.com) online, not sure if it's the original Art work.
 
