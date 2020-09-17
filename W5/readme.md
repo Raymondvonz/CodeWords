@@ -12,10 +12,15 @@ This week we asked to pick a text from [*online reader*](http://digbeyond.com/re
 The OK text and GRAMMATRON francinate me the most. They are both written by Mark Amerika. I can see a strong connection between two of them. They give me the same frustration by indicating there is no chocie but to follow the experience.(although it did offer an obvious  YES/NO option in Ok text)
 
 Ok text
+
 the pop up “warning” texts that we often briefly read then press “OK” to close. 
 
 GRAMMATRON
 
-I found this interative [*web page*](http://www.grammatron.com) online, not sure if it's the original Art work. 
+I found this interative [*web page*](http://www.grammatron.com) online, not sure if it's the original Art work.
 
 
+
+### C
+
+I tried to playaround with mouseX mouseY translate rotate later on and  [*Click here to view*](https://www.youtube.com/watch?v=V1scKvMRQx8&t=9s)
