@@ -6,4 +6,6 @@
 
 ### C
 
-[Play here](https://raymondvonz.github.io/CodeWords/W6/mapfunction/).
+Here is a beautiful mistake during the exploration 
+I now named it Dimension in Dance
+[Play here](https://raymondvonz.github.io/CodeWords/W6/sketch_3d/).
