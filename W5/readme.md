@@ -32,3 +32,6 @@ Part of Grammatron is a companion theory site called "hypertext consciousness" T
 I tried to playaround with mouseX mouseY translate rotate later on and  [Play here](https://raymondvonz.github.io/CodeWords/W5/spin/).
 The 10 Arc shapes are spinning by themselves 
 
+Here is another attempt using map function.
+[Play here](https://raymondvonz.github.io/CodeWords/W5/mapfunction/).
+
