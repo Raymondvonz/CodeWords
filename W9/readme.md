@@ -6,7 +6,13 @@ But after done some youtube tutorials,I suddenly realised that instead of make t
 [Play here](https://raymondvonz.github.io/CodeWords/W9/window/).
 
 Here is my typing effect attempt.
+1st
+[Play here](https://raymondvonz.github.io/CodeWords/W9/typ/).
 
+2st
+[Play here](https://raymondvonz.github.io/CodeWords/W9/typ/).
+
+3rd
 [Play here](https://raymondvonz.github.io/CodeWords/W9/typ/).
 
 I got a lot of help from my Housemate Karen and Celia on this one. Thanks A lot!
