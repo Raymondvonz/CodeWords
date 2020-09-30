@@ -41,7 +41,7 @@ and some fun reading [Pop-up ads: Why everyone hates them and why they’ll neve
 Stay Away From Me
 Tae Hyun Baek  & Mariko Morimoto [Stay Away From Me](https://www.tandfonline.com/doi/abs/10.2753/JOA0091-3367410105?src=recsys).
 
-
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W6/black-mirror-episodes-fifteen-million-merits.jpg)
 
 ### C
 
