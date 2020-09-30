@@ -6,7 +6,7 @@ In this week, I have been reading GRAMMATRON over and over again and trying to p
 
 > **IT IS WORTHLESS, he entered his opening salvo of this particular day into the electrosphere. Then he backspaced over the word WORTHLESS and typed in DATA. By the time he was finished with his first line, it read IT IS DATA THAT WORRIES ME.**
 
-![](https://github.com/Raymondvonz/CodeWords/blob/master/W6/Screen%20Shot%202020-09-30%20at%209.29.29%20pm.png)
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W6/Screen%20Shot%202020-09-30%20at%209.29.10%20pm.png)
 
 
 > **GOT BLUE BALLS, BUDDY? SAME OLD SAME OLD? FUCK THAT SHIT MAN....GO MONSTER! MONSTER IS THE MOST POTENT FORM OF DAMI- ANA EVER GROWN. AND WE GOT IT HERE IN CUM CITY! TAKE A TRIP TO CUM CITY AND WATCH YOUR LIFE TURN FROM SHITTY TO . . . WORSE!**
