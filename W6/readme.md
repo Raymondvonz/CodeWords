@@ -34,6 +34,15 @@ MACRO WORLD MEDIA DECLARES WAR! PAY PER VIEW ON CHANNEL X! CHECK NOW FOR PRICES 
 
 ### B
 
+I did a bit resarch on pop up Ads in vitural worlds.A lot of Sci-fi movie and TV shows have similar scenario where people are bombarded with Advertising.For example One of the Black Mirror shorts, "15 Million Merits" handles this extremely well. It depicts very intrusive advertising in a dystopic future. Most flat surfaces double as screens, and intrusive ads (that cost money to skip) appear wherever you happen to be looking. One of them forms a fairly major plot point.
+
+and some fun reading [Pop-up ads: Why everyone hates them and why they’ll never die](https://marketingland.com/pop-up-ads-why-everyone-hates-them-and-why-theyll-never-die-273343).
+
+Stay Away From Me
+Tae Hyun Baek  & Mariko Morimoto [Stay Away From Me](https://www.tandfonline.com/doi/abs/10.2753/JOA0091-3367410105?src=recsys).
+
+
+
 ### C
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W6/Sep-23-2020%2023-49-23.gif)
