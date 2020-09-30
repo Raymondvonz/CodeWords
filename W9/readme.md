@@ -7,7 +7,7 @@ But after done some youtube tutorials,I suddenly realised that instead of make t
 
 Here is my typing effect attempt.
 1st
-[Play here](https://raymondvonz.github.io/CodeWords/W9/typ/).
+[Play here](https://raymondvonz.github.io/CodeWords/W9/typing/).
 
 2st
 [Play here](https://raymondvonz.github.io/CodeWords/W9/typ/).
