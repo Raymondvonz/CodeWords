@@ -45,10 +45,11 @@ Tae Hyun Baek  & Mariko Morimoto [Stay Away From Me](https://www.tandfonline.com
 
 ### C
 
+Later this week I truly immersed myself in the Codeword and try to get comfortable with coding.This time I am exploring the 3D space. 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W6/Sep-23-2020%2023-49-23.gif)
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W6/Sep-24-2020%2000-14-34.gif)
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W6/Sep-24-2020%2000-14-46.gif)
 
-Here is a beautiful mistake during the exploration 
-I now named it Dimension in Dance
+Here is a beautiful mistake I made during the exploration.
+I now named it Dimension in Dance.
 [Play here](https://raymondvonz.github.io/CodeWords/W6/sketch_3d/).
