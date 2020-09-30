@@ -7,6 +7,8 @@ But after done some youtube tutorials,I suddenly realised that instead of make t
 
 Here is my typing effect attempt.
 
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/Screen%20Shot%202020-10-01%20at%201.30.26%20am.png).
+
 1st
 [Play here](https://raymondvonz.github.io/CodeWords/W9/typing/).
 
