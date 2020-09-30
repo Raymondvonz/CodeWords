@@ -6,6 +6,8 @@ In this week, I have been reading GRAMMATRON over and over again and trying to p
 
 > **IT IS WORTHLESS, he entered his opening salvo of this particular day into the electrosphere. Then he backspaced over the word WORTHLESS and typed in DATA. By the time he was finished with his first line, it read IT IS DATA THAT WORRIES ME.**
 
+This pic is from the original GRAMMATRON website. By simply click the highlighting text or link you are able to continue reading. I feel like it can be bringed into my final project given that clicking is one of the major interactive features.
+
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W6/Screen%20Shot%202020-09-30%20at%209.29.10%20pm.png)
 
 
