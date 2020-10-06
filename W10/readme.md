@@ -13,26 +13,8 @@ Else fill blue & bouncing
 IF Frame reaches the window width& height
 THEN bounce back
 
-Here is the code
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W10/Screen%20Shot%202020-10-06%20at%209.10.16%20pm.png)
 
-if (mouseX > frame2.x && mouseX < frame2.x + frame2.width && mouseY > frame2.y&& mouseY < frame2.y + frame2.height) {
-                frame2.width += 1;
-                frame2.height += 1;
-                frame2.fill = "black";
-            } else {
-                frame2.fill = "blue";
-                frame2.x += xoff;
-                frame2.y += yoff;
-            }
-
-if (frame2.x <0 || frame2.x > width - frame2.width) {
-                xoff = -xoff;
-            }
-
-            if (frame2.y < 0 || frame2.y > height - frame2.height) {
-                yoff = -yoff;
-            }
-        }
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W10/Screen%20Shot%202020-10-06%20at%207.53.21%20pm.png)
 
