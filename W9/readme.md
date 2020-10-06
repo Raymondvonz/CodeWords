@@ -16,6 +16,7 @@ Here is my typing effect attempt.
 [Play here](https://raymondvonz.github.io/CodeWords/W9/typ/).
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/Screen%20Shot%202020-10-01%20at%201.30.45%20am.png).
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/MOUSECLOSE.png)
 
 3rd
 [Play here](https://raymondvonz.github.io/CodeWords/W9/TYPING_WINDOW/).
