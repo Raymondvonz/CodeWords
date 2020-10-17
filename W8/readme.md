@@ -14,7 +14,7 @@ Create ads
 IF user moves mouse
            THEN ads move in an opposite direction 
 Else  the ads moves randomly 
-OT BLUE BALLS, BUDDY? SAME OLD SAME OLD? FUCK THAT SHIT MAN....GO MONSTER! MONSTER IS THE MOST POTENT FORM OF DAMI- ANA EVER GROWN. AND WE GOT IT HERE IN CUM CITY! TAKE A TRIP TO CUM CITY AND WATCH YOUR LIFE TURN FROM SHITTY TO . . . WORSE!
+OT BLUE BALLS, BUDDY? SAME OLD SAME OLD? FUCK THAT SHIT MAN...
            Part C Pop up ads with Highlight text  
            IF user moves mouse
            THEN ads grow bigger
