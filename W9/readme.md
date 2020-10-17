@@ -15,16 +15,15 @@ I was super clear with what l wanna achieve through coding thanks to the paper p
 
 Here is my typing effect attempt.
 
-1st[Play here](https://raymondvonz.github.io/CodeWords/W9/typing/).
+1st  [Play here](https://raymondvonz.github.io/CodeWords/W9/typing/).
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/Screen%20Shot%202020-10-01%20at%201.30.26%20am.png).
 
-2st[Play here](https://raymondvonz.github.io/CodeWords/W9/typ/).
+2st  [Play here](https://raymondvonz.github.io/CodeWords/W9/typ/).
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/a2.gif)
 
-3rd
-[Play here](https://raymondvonz.github.io/CodeWords/W9/TYPING_WINDOW/).
+3rd  [Play here](https://raymondvonz.github.io/CodeWords/W9/TYPING_WINDOW/).
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/Screen%20Shot%202020-10-01%20at%201.30.45%20am.png).
 
