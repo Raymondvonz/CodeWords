@@ -22,3 +22,12 @@ OT BLUE BALLS, BUDDY? SAME OLD SAME OLD? FUCK THAT SHIT MAN...
            THEN you die
 WELL,YEAH ABE-BABES,WE’RE ALL HOME NOW! HOME ALONE! TOUCH ME YOU DIE!”*
 ```
+
+### B
+
+In the next few days I tried my best to get comfortable with coding. I put my ideas for the final design aside and just inmerse myslf in writing code.
+
+Attempt 1 
+
+I Created a function named countdown that accepts two parameters: number and message. Displaying the countdown from the specified number to 0. At the end of the countdown, the given information for each parameter will be displayed on the screen.
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W8/countdown.gif)
