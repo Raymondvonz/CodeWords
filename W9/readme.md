@@ -15,15 +15,14 @@ I was super clear with what l wanna achieve through coding thanks to the paper p
 
 Here is my typing effect attempt.
 
+1st[Play here](https://raymondvonz.github.io/CodeWords/W9/typing/).
+
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/Screen%20Shot%202020-10-01%20at%201.30.26%20am.png).
 
-1st
-[Play here](https://raymondvonz.github.io/CodeWords/W9/typing/).
+2st[Play here](https://raymondvonz.github.io/CodeWords/W9/typ/).
 
-2st
-[Play here](https://raymondvonz.github.io/CodeWords/W9/typ/).
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/a2.gif)
 
-![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/Screen%20Shot%202020-10-01%20at%201.30.45%20am.png).
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/MOUSECLOSE.png)
 
 3rd
@@ -35,7 +34,11 @@ Me and Celia struggled a lot in this because karen's original code is using spit
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/Oct-01-2020%2001-34-54.gif).
 
+[Play here](https://raymondvonz.github.io/CodeWords/W9/largewindow/).
+
 Here is my enlarge windoe attempt.
 When mouse reaches window then the window grow bigger
 
-[Play here](https://raymondvonz.github.io/CodeWords/W9/largewindow/).
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/Screen%20Shot%202020-10-01%20at%201.30.45%20am.png).
+
+
