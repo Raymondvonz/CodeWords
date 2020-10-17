@@ -1,11 +1,11 @@
- We started preparing for your next major project milestone, for which you will deliver the (work-in-progress) code for your project on your gitHub before this Friday, Oct 2. Don't worry you will keep working on it until Week 12!
+### A
 
-2. During the workshop, Karen ann demonstrated some sketches using some new functions such as textToPoint() and text appearing over time. Karen has collected all of these on our gitHubs. More this week!
+We delivered the work-in-progress code for our project this week and then Karen demonstrated some sketches using textToPoint() and text appearing over time.
 
-Here is my pop up ads attempt.
+Here is my pop up ads attempt ( work in progress ).
 
 I have no ideal how to make it brouncing around while avoiding the mouse.
-But after done some youtube tutorials,I suddenly realised that instead of make the window avoiding the mouse I can use the radome function to generate a new window when my mouse is approaching to the close button.
+But after done some youtube tutorials,I suddenly realised that instead of make the window avoiding the mouse I can use the radome function to generate a new window when my mouse is approaching to the close button. haha problem solved.
 
 [Play here](https://raymondvonz.github.io/CodeWords/W9/window/).
 
