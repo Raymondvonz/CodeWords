@@ -35,4 +35,8 @@ I Created a function named countdown that accepts two parameters: number and mes
 
 **Attempt 2 [Play here](https://raymondvonz.github.io/CodeWords/W8/count_down/).**
 
+To choose a random color every time a key is pressed. I learned some variables that can be used in the keyPressed function: key and keyCode. 
+
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W8/Press%20random.gif)
+
 
