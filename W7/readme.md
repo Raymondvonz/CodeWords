@@ -12,4 +12,6 @@ This week's class starts with paper prototyping, we worked in a group to share o
 
 The ideal was to create a narrative for reader by using interative windows. Reading can be so different in digital space.
 
-> A new generation of digital writers is building on video games, incorporating their interactive features—and cognitive sparks—into novelistic narratives that embrace the capabilities of our screens and tablets. 
+> A new generation of digital writers is building on video games, incorporating their interactive features—and cognitive sparks—into novelistic narratives that embrace the capabilities of our screens and tablets. -PAUL LA FARGE **The Deep Space of Digital Reading**
+
+acc
