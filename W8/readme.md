@@ -1,3 +1,9 @@
+### A
+
+We presented our paper-prototypes to the class today [Here is the ppt sildes](https://docs.google.com/presentation/d/1dX_ZDAdoo_U-JSXTtUxhwClVBWJZjEu7X48fx6t4-Zc/edit#slide=id.p). I have to admit my peers are all amazingly talented. It was super inspring to see everyone’s ideas for their chosen texts.
+
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W7/Oct-17-2020%2014-48-44.gif)
+
 Part A Typing effect (main, background,Looping)
 Print text 
 Play typing sound
