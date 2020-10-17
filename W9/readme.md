@@ -23,8 +23,6 @@ Here is my typing effect attempt.
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/a2.gif)
 
-![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/MOUSECLOSE.png)
-
 3rd
 [Play here](https://raymondvonz.github.io/CodeWords/W9/TYPING_WINDOW/).
 
