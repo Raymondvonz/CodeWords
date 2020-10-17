@@ -1,3 +1,7 @@
+ We started preparing for your next major project milestone, for which you will deliver the (work-in-progress) code for your project on your gitHub before this Friday, Oct 2. Don't worry you will keep working on it until Week 12!
+
+2. During the workshop, Karen ann demonstrated some sketches using some new functions such as textToPoint() and text appearing over time. Karen has collected all of these on our gitHubs. More this week!
+
 Here is my pop up ads attempt.
 
 I have no ideal how to make it brouncing around while avoiding the mouse.
