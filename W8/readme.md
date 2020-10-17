@@ -25,7 +25,7 @@ WELL,YEAH ABE-BABES,WE’RE ALL HOME NOW! HOME ALONE! TOUCH ME YOU DIE!”*
 
 ### B
 
-In the next few days I tried my best to get comfortable with coding. I put my ideas for the final design aside and just inmerse myslf in writing code.
+In the next few days I tried my best to get comfortable with coding. I put my ideas for the final design aside and just inmerse myslf in writing code. I am those kind of guy who learns from mistakes and pratices. I feel like l really need to hand on and start to make mistakes( or you can say create bugs)
 
 Attempt 1 
 
