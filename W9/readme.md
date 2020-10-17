@@ -9,6 +9,9 @@ But after done some youtube tutorials,I suddenly realised that instead of make t
 
 [Play here](https://raymondvonz.github.io/CodeWords/W9/window/).
 
+### B
+
+I was super clear with what l wanna achieve through coding thanks to the paper prototyping. So I decided to break the final design into 3 parts) Luckly 
 Here is my typing effect attempt.
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W9/Screen%20Shot%202020-10-01%20at%201.30.26%20am.png).
