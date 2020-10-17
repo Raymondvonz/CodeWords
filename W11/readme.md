@@ -4,7 +4,7 @@ This week we dedicated to documenting and presenting our final projects.
 
 I wrote a short statement of my design.
 
-It is worthless is an artwork exploring both pros and cons of reading in Digital space, inspired by the Internet novel GRAMMATRON. Although Multi-media devices may bring reading to the next level by creating immersive and interactive disseminations, something we can not ignore is that we are more likely to be distracted from the text itself. 
+> It is worthless is an artwork exploring both pros and cons of reading in Digital space, inspired by the Internet novel GRAMMATRON. Although Multi-media devices may bring reading to the next level by creating immersive and interactive disseminations, something we can not ignore is that we are more likely to be distracted from the text itself. 
 
 As is depicted in the GRAMMATRON, people are bombarded with Advertising in Digital space. By reading the text I selected, I am expecting people to sense the frustration as well as the desperation when they find out there is no way to hide in the Digital space. I want people to be annoyed and start to think about do they really need reading in the digital space? 
 
@@ -13,7 +13,7 @@ A grows bigger
 B disappear for one second and then reappear 
 C runs away from your mouse
 which leaves you no choice but to deal with it.
-
+> 
 
 
 [Play here](https://raymondvonz.github.io/CodeWords/W11/final2/).
