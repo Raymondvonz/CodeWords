@@ -29,6 +29,6 @@ What I wanna highlight is how interactive and engaging can reading be in the dig
 
 Our live coding session with Karen introduced us to using the sound library and extending Javascript's p5.js with other libraries. I definitely gonna bring sound into my final design. 
 
-An attempt i did [Play here](https://raymondvonz.github.io/CodeWords/W7/sketch_sound_attempt/).
+An attempt I did [Play here](https://raymondvonz.github.io/CodeWords/W7/sketch_sound_attempt/).
 
 
