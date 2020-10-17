@@ -1,6 +1,8 @@
-
-
+### A
 This week we dedicated to documenting and presenting our final projects.
+
+I wrote a short statement of my design.
+
 
 [Play here](https://raymondvonz.github.io/CodeWords/W11/final2/).
 
