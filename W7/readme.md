@@ -16,6 +16,6 @@ For this part, what l want to achieve is using code to visualise the proccess of
 
 The ideal was to create a narrative for reader by using interative windows. Reading can be so different in digital space. Multi-media devices may bring reading to the next level by creating immersive and interactive disseminations.
 
-> A new generation of digital writers is building on video games, incorporating their interactive features—and cognitive sparks—into novelistic narratives that embrace the capabilities of our screens and tablets. -PAUL LA FARGE [The Deep Space of Digital Reading](http://nautil.us/issue/32/space/the-deep-space-of-digital-reading).
+> A new generation of digital writers is building on video games, incorporating their interactive features—and cognitive sparks—into novelistic narratives that embrace the capabilities of our screens and tablets. -PAUL LA FARGE [*The Deep Space of Digital Reading*](http://nautil.us/issue/32/space/the-deep-space-of-digital-reading).
 
 What I wanna highlight is how interactive and engaging can reading be in the digital space as well as how likely can readers be distracted from the reading itself.
