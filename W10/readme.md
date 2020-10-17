@@ -16,8 +16,8 @@ THEN bounce back
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W10/Screen%20Shot%202020-10-06%20at%209.10.16%20pm.png)
 
-
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W10/Screen%20Shot%202020-10-06%20at%207.53.21%20pm.png)
 
-
 [Play here](https://raymondvonz.github.io/CodeWords/W10/final/).
+
+Now l am faceing the problem with how to put all my codes together. I found that a lot of bugs starting to appear when I tried to put everthing together.The codes are geting extremely longer. two of my window are overlaping. 
