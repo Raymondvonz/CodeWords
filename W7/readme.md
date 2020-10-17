@@ -6,13 +6,19 @@ This week's class starts with paper prototyping, we worked in a group to share o
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W7/Oct-17-2020%2014-48-03.gif)
 
-**IT IS WORTHLESS**, he entered his opening salvo of this particular day into the electrosphere. Then he backspaced over the word WORTHLESS and typed in DATA. By the time he was finished with his first line, it read **IT IS DATA THAT WORRIES ME**.
+> **IT IS WORTHLESS**, he entered his opening salvo of this particular day into the electrosphere. Then he backspaced over the word WORTHLESS and typed in DATA. By the time he was finished with his first line, it read **IT IS DATA THAT WORRIES ME**.
 
 For this part, what l want to achieve is using code to visualise the proccess of typing, deleting and retyping the worlds and combined it with timing so that it shows the guy who is typing did a bit of thinking and then decide to type this powerful sentence **IT IS DATA THAT WORRIES ME**.
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W7/Oct-17-2020%2014-48-31.gif)
 
+> GOT BLUE BALLS, BUDDY? SAME OLD SAME OLD? FUCK THAT SHIT MAN....GO MONSTER! MONSTER IS THE MOST POTENT FORM OF DAMI- ANA EVER GROWN. AND WE GOT IT HERE IN CUM CITY! TAKE A TRIP TO CUM CITY AND WATCH YOUR LIFE TURN FROM SHITTY TO . . . WORSE!
+
+Haha this is a pop up Ads(window)that contains x-rated text which is annoying.What make it worse is that it is impossible for reader to close it given that it can avoid your mouse.
+
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W7/Oct-17-2020%2014-48-44.gif)
+
+A window that can grows bigger. It contains a highlight text area which can be triggered when mouse is hovering above. It will become tricky when window grows bigger and bigger. you may inevitably die.
 
 The ideal was to create a narrative for reader by using interative windows. Reading can be so different in digital space. Multi-media devices may bring reading to the next level by creating immersive and interactive disseminations.
 
