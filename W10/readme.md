@@ -20,4 +20,6 @@ THEN bounce back
 
 [Play here](https://raymondvonz.github.io/CodeWords/W10/final/).
 
-Now l am faceing the problem with how to put all my codes together. I found that a lot of bugs starting to appear when I tried to put everthing together.The codes are geting extremely longer. two of my windows are overlaping. I spend most of the time debuging. One of my firend suggested me to use[Visual Studio Code](https://code.visualstudio.com),which allows me to debug with break points, call stacks, and an interactive console.
+Now l am faceing the problem with how to put all my codes together. I found that a lot of bugs starting to appear when I tried to put everthing together.The codes are geting extremely longer. two of my windows are overlaping. I spend most of the time debuging. One of my firend suggested me to use [Visual Studio Code](https://code.visualstudio.com),which allows me to debug with break points, call stacks, and an interactive console.
+
+
