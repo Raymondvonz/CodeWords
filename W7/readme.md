@@ -6,9 +6,9 @@ This week's class starts with paper prototyping, we worked in a group to share o
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W7/Oct-17-2020%2014-48-03.gif)
 
-IT IS WORTHLESS, he entered his opening salvo of this particular day into the electrosphere. Then he backspaced over the word WORTHLESS and typed in DATA. By the time he was finished with his first line, it read IT IS DATA THAT WORRIES ME.
+**IT IS WORTHLESS**, he entered his opening salvo of this particular day into the electrosphere. Then he backspaced over the word WORTHLESS and typed in DATA. By the time he was finished with his first line, it read **IT IS DATA THAT WORRIES ME**.
 
-For this part, what l want to achieve is using code to visualise the proccess of typing, deleting and retyping the worlds and combined it with timing so that it shows the guy who is typing did a bit of thinking and then decide to type this powerful sentence ***IT IS DATA THAT WORRIES ME***.
+For this part, what l want to achieve is using code to visualise the proccess of typing, deleting and retyping the worlds and combined it with timing so that it shows the guy who is typing did a bit of thinking and then decide to type this powerful sentence **IT IS DATA THAT WORRIES ME**.
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W7/Oct-17-2020%2014-48-31.gif)
 
