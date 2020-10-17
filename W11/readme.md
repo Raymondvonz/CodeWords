@@ -23,9 +23,10 @@ which leaves you no choice but to deal with it.
 
 something I changed:
 
-After I re-read the GRAMMATRON. It came across to me that I need to add another pop up window that contains the last paragraph of the novel 
+After I re-read the GRAMMATRON. It came across to me that I need to add another pop up window that contains the last paragraph of the novel.
 
 >"BREAKING NEWS! MACROWORLDMEDIA DECLARES WAR! PAY PER VIEW ON CHANNEL X! CHECK NOW FOR PRICES...
 
+It will definately add a little spark to the final artwork. So I decided to make this window transparent when mouse is hovering above.
 
 
