@@ -21,7 +21,7 @@ which leaves you no choice but to deal with it.
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W11/Oct-15-2020%2013-32-05.gif).
 
-something I changed:
+Something I changed:
 
 After I re-read the GRAMMATRON. It came across to me that I need to add another pop up window that contains the last paragraph of the novel.
 
