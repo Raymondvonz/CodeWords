@@ -1,0 +1,38 @@
+var song;
+
+function setup() {
+song = loadSound ('data/Torture.mp3');
+createCanvas (windowWidth,windowHeight);
+background(0);
+  analyzer = new p5.Amplitude();
+  analyzer.setInput(song);
+  fill(120);
+  textSize(72);
+  textAlign(CENTER,CENTER);
+}
+
+
+function draw() {
+  background(0, 10);
+  fill(120);
+  var volume = analyzer.getLevel();
+  volume*=400;
+  ellipse(width/2,height/2,volume,volume);
+  fill(255);
+  textSize(volume);
+  //text('DANCE!', width/2, height/2);
+}
+
+function mousePressed() {
+  if (song.isPlaying()) {
+    background(255);
+    song.stop(); // if the song is playing, stop it
+    song.noLoop();
+  }
+  else {
+    background(0);
+    song.loop();
+    song.play();
+    
+  }
+}
