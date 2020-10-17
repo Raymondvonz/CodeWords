@@ -27,6 +27,8 @@ After I re-read the GRAMMATRON. It came across to me that I need to add another 
 
 >"BREAKING NEWS! MACROWORLDMEDIA DECLARES WAR! PAY PER VIEW ON CHANNEL X! CHECK NOW FOR PRICES...
 
-It will definately add a little spark to the final artwork. So I decided to make this window transparent when mouse is hovering above.
+I decided to make this window transparent when mouse is hovering above. It will definately add a little spark to the final artwork. 
+
+Sound effect is finally added. I wasn't sure about whether l should include sound or not. But after seen everone's work (a lot of them do have sounds in their design).I picked a really anonnying sound conbined with mousePressd fuction to make the whole exprience even more torturing. I know Readers will try to press their mouse to close the pop up window and I am expecting them to stressed out lol.
 
 
