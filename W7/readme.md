@@ -2,7 +2,7 @@
 
 ### A
 
-This week's class starts with paper prototyping, we worked in a group to share our ideal on how we gonna interpret the text we picked.  I found taht doing prototypes helpful for me to quickly test initial ideas. They can be quickly modified, which means l can realize a bounch of my ideals easily. I made a stop motion gif showing my paper prototype.
+This week's class starts with paper prototyping, we worked in a group to share our ideal on how we gonna interpret the text we picked and how these prototypes will help us develop our code. I found that doing prototypes are helpful for me to quickly test my initial ideas. They can be quickly modified, which means l can realize a bounch of my ideals easily. I made a stop motion gif showing my paper prototype.
 
 
 
