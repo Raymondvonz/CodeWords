@@ -29,7 +29,7 @@ In the next few days I tried my best to get comfortable with coding. I put my id
 
 **Attempt 1 [Play here](https://raymondvonz.github.io/CodeWords/W8/count_down/).**
 
-I Created a function named countdown that accepts two parameters: number and message. Displaying the countdown from the specified number to 0. At the end of the countdown, the given information for each parameter will be displayed on the screen.
+I used a function named countdown that accepts two parameters: number and message. Displaying the countdown from the specified number to 0. At the end of the countdown, the given information for each parameter will be displayed on the screen.
 
 ![](https://github.com/Raymondvonz/CodeWords/blob/master/W8/countdown.gif)
 
