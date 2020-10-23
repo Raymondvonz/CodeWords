@@ -1,4 +1,4 @@
-# Hello CodeWORDS
+# Hello GitHub
 
 A place documenting all the struggle,joy and beautiful mistakes I made during exploring the CodeWORDS.
 
