@@ -1,6 +1,6 @@
 # Hello CodeWORDS
 
-
+A place that document all the struggle,research and beautiful mistakes that I made during exploring the CodeWORDS.
 ![Image of AnimalCrossing](https://github.com/Raymondvonz/CodeWords/blob/master/Wholesome%20Animal%20Crossing.png)
 
 ## [WEEK 01](https://github.com/Raymondvonz/CodeWords/blob/master/W1/readme.md) 
