@@ -1,4 +1,4 @@
-Some reflection l wrote ( I hate writing )
+Some reflections l wrote ( I hate writing )
 
 As a graphic designer, I always feel like coding is something I won’t touch till the day l died. I am so used to design in the Adobe suites. If I am using After Effects to recreate my final project. I will, with no doubt, end up with something which looks more fascinating. However, I kept thinking recently that Are we really designing/creating or we just do whatever we can do which looks good in Adobe suites? Sticking with the Adobe somehow limits my design outcome and have a negative influence on how far my imagination will go. I constantly end up repeating the same tricks that I am familiar with and comfortable with.
 
