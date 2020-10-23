@@ -5,7 +5,7 @@
 
 ## [WEEK 01](https://github.com/Raymondvonz/CodeWords/blob/master/W1/readme.md) 
 ## [WEEK 02](https://github.com/Raymondvonz/CodeWords/blob/master/W2/readme.md) 
-## [WEEK 03](https://github.com/Raymondvonz/CodeWords/blob/master/W3/readme.md) 
+## [WEEK 03](https://github.com/Raymondvonz/CodeWords/blob/master/W3/Readme.md) 
 ## [WEEK 04](https://github.com/Raymondvonz/CodeWords/blob/master/W4/readme.md) 
 ## [WEEK 05](https://github.com/Raymondvonz/CodeWords/blob/master/W5/readme.md) 
 ## [WEEK 06](https://github.com/Raymondvonz/CodeWords/blob/master/W6/readme.md) 
